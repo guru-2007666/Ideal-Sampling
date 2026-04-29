@@ -74,14 +74,10 @@ plt.show()
 ```
 # Output Waveform
 
+<img width="1280" height="1280" alt="WhatsApp Image 2026-04-29 at 9 39 36 AM" src="https://github.com/user-attachments/assets/f1ef74ba-9784-4fbf-a834-d97929e5ab38" />
 
 
 
-
-
-
-
-<img width="1009" height="660" alt="WhatsApp Image 2026-04-21 at 9 01 43 AM" src="https://github.com/user-attachments/assets/31269f5e-21b1-410a-ab41-8928c22071b1" />
 
 
 # Results
